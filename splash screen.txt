@@ -1,0 +1,19 @@
+Splash Screen en Android Studio | Pantalla de Bienvenida en Android | Pantalla de Inicio en Android | Java
+
+
+Splash Screens: Las pantallas de inicio también son importantes
+
+La splash screen es una pantalla de inicio o bienvenida que podemos crear en Android Studio 
+para mostrar un logotipo,texto, color de fondo a nuestros usuarios mientras se carga una aplicación en android.
+ 
+En este video te voy a enseñar a crear una splash screen en Android Studio.
+============================================================================
+
+Android Studio: Cómo crear una app para principiantes | Cómo crear una aplicación en Android | Java
+
+Android Studio es el entorno de desarrollo integrado(IDE) oficial para el desarrollo de aplicaciones para Android.
+Si quieres aprender cómo crear una App, en este video te voy a enseñar crear desde cero nuestro "Hola Mundo" 
+en Android usando Android Studio y Java (lenguaje de programación).
+
+=============================================================================
+Login screen en android studio | Java
